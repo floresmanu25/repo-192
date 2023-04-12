@@ -1,0 +1,18 @@
+. contenedor{
+    Pantalla: Flex;
+    flex-wrap: envoltura;
+    justificar-contenido: centro;
+    Espacio: 30px;
+}
+. tarjeta{
+    color de fondo: rgb (42, 41, 41 );
+    color: blanco;
+    Radio de borde: 5px;
+    relleno: 10px;
+    Ancho: 300px;
+    font-family: sans-serif;
+    borde: vara de oro 2px sólido;
+}
+cuerpo{
+    fondo-color: gris pizarra oscura;
+}
